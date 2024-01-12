@@ -1,0 +1,37 @@
+_repo: Le-grizzly_72637
+_version: 0.0.1
+contributor:
+  translator:
+    agent_name: Midship
+    gutenberg_agent_id: '56759'
+    url: http://www.gutenberg.org/2009/agents/56759
+creator:
+  author:
+    agent_name: Curwood, James Oliver
+    alias: Curwood, James-Oliver
+    birthdate: 1878
+    deathdate: 1927
+    gutenberg_agent_id: '1487'
+    url: http://www.gutenberg.org/2009/agents/1487
+    wikipedia: https://en.wikipedia.org/wiki/James_Oliver_Curwood
+description: ''
+gutenberg_issued: '2024-01-05'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '72637'
+language: fr
+pgterms:marc904: https://gallica.bnf.fr/ark:/12148/bpt6k811631
+pgterms:marc905: 20231107123231curwood
+pgterms:marc906: '1926'
+pgterms:marc907: FR
+production_note: Laurent Vogel and the Online Distributed Proofreading Team at https://www.pgdp.net
+  (This file was produced from images generously made available by the Bibliothèque
+  nationale de France (BnF/Gallica))
+publication_note: '  $aParis :$bG. Crès, $c1926.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: Le grizzly
+url: http://www.gutenberg.org/ebooks/72637
