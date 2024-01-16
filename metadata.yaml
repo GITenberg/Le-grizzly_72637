@@ -5,6 +5,9 @@ contributor:
     agent_name: Midship
     gutenberg_agent_id: '56759'
     url: http://www.gutenberg.org/2009/agents/56759
+covers:
+- cover_type: archival
+  image_path: 72637-h/images/cover.jpg
 creator:
   author:
     agent_name: Curwood, James Oliver
@@ -15,6 +18,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/1487
     wikipedia: https://en.wikipedia.org/wiki/James_Oliver_Curwood
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/72637#Le-grizzly
 gutenberg_issued: '2024-01-05'
 gutenberg_type: Text
 identifiers:
